@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mohitmau/my_project/issues"
   },
-  "homepage": "https://github.com/mohitmau/my_project#readme"
+  "homepage": "https://github.com/mohitmau/my_project#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
